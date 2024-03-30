@@ -1,0 +1,67 @@
+2024-03-30 12:24:10,157 root INFO This is my info log
+2024-03-30 12:31:56,081 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,081 root INFO this is the value of i am logging 1
+2024-03-30 12:31:56,081 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,081 root INFO this is the value of i am logging 2
+2024-03-30 12:31:56,082 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,082 root INFO this is the value of i am logging 3
+2024-03-30 12:31:56,082 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,082 root INFO this is the value of i am logging 4
+2024-03-30 12:31:56,084 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,084 root INFO this is the value of i am logging [5, 6, 7]
+2024-03-30 12:31:56,084 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,084 root INFO this is the value of i am logging gaurav
+2024-03-30 12:31:56,084 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:31:56,084 root INFO this is the value of i am logging bhadane
+2024-03-30 12:34:43,222 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,222 root INFO this is the value of i am logging 1
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging 2
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging 3
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging 4
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging [5, 6, 7]
+2024-03-30 12:34:43,223 root INFO logging my j 5 and i [5, 6, 7]
+2024-03-30 12:34:43,223 root INFO logging my j 6 and i [5, 6, 7]
+2024-03-30 12:34:43,223 root INFO logging my j 7 and i [5, 6, 7]
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging gaurav
+2024-03-30 12:34:43,223 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:34:43,223 root INFO this is the value of i am logging bhadane
+2024-03-30 12:35:32,250 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,250 root INFO this is the value of i am logging 1
+2024-03-30 12:35:32,250 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,250 root INFO this is the value of i am logging 2
+2024-03-30 12:35:32,250 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,250 root INFO this is the value of i am logging 3
+2024-03-30 12:35:32,251 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,251 root INFO this is the value of i am logging 4
+2024-03-30 12:35:32,251 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,251 root INFO this is the value of i am logging [5, 6, 7]
+2024-03-30 12:35:32,251 root INFO logging my j 5 and i [5, 6, 7]
+2024-03-30 12:35:32,251 root INFO logging my j 6 and i [5, 6, 7]
+2024-03-30 12:35:32,251 root INFO logging my j 7 and i [5, 6, 7]
+2024-03-30 12:35:32,251 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,251 root INFO this is the value of i am logging gaurav
+2024-03-30 12:35:32,251 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:32,251 root INFO this is the value of i am logging bhadane
+2024-03-30 12:35:37,689 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,689 root INFO this is the value of i am logging 1
+2024-03-30 12:35:37,689 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,689 root INFO this is the value of i am logging 2
+2024-03-30 12:35:37,689 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,690 root INFO this is the value of i am logging 3
+2024-03-30 12:35:37,690 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,690 root INFO this is the value of i am logging 4
+2024-03-30 12:35:37,690 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,690 root INFO this is the value of i am logging [5, 6, 7]
+2024-03-30 12:35:37,690 root INFO logging my j 5 and i [5, 6, 7]
+2024-03-30 12:35:37,690 root INFO logging my j 6 and i [5, 6, 7]
+2024-03-30 12:35:37,690 root INFO logging my j 7 and i [5, 6, 7]
+2024-03-30 12:35:37,690 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,690 root INFO this is the value of i am logging gaurav
+2024-03-30 12:35:37,690 root INFO this is Start of my First For Loop [1, 2, 3, 4, [5, 6, 7], 'gaurav', 'bhadane']
+2024-03-30 12:35:37,690 root INFO this is the value of i am logging bhadane
+2024-03-30 12:35:37,690 root INFO This is My final result with all int[1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7] and all str ['gaurav', 'bhadane', 'gaurav', 'bhadane', 'gaurav', 'bhadane']
