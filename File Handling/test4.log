@@ -2,3 +2,5 @@ INFO:root:This is my Line of Execution
 ERROR:root:This is my Error
 CRITICAL:root:This is my Critical
 WARNING:root:This is my Warning
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 10ea7232-9010-4de7-8a7a-daf5870f1010
