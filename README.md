@@ -40,7 +40,7 @@ Before diving into data science, make sure you have a strong foundation in the f
 
 ### 5. Stay Updated and Engage with the Community
 
-- **Read Blogs and Papers**: Stay informed about the latest developments and research in data science.
+- **Read Blogs and Papers**: Stay informed about the latest developments and research in Data Science.
 
 - **Join Online Communities**: Participate in forums like Stack Overflow, Reddit (r/datascience), and LinkedIn groups.
 
