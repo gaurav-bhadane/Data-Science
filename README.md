@@ -8,7 +8,7 @@ Before diving into data science, make sure you have a strong foundation in the f
 
 - **Mathematics**: Linear Algebra, Calculus, Probability, and Statistics.
 - **Programming**: Proficiency in at least one programming language, preferably Python or R.
-- **Data Analysis Tools**: Familiarity with tools such as NumPy, Pandas, and Matplotlib in Python, or equivalent in R.
+- **Data Analysis Tools**: Familiarity with tools such as NumPy, Pandas,Seaborn and Matplotlib in Python, or equivalent in R.
 
 ## Roadmap
 
