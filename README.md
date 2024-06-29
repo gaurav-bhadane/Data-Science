@@ -50,4 +50,4 @@ Before diving into Data Science, make sure you have a strong Foundation in the f
 
 Embarking on the journey to becoming a data scientist may seem daunting, but with dedication, persistence, and the right resources, you can achieve your goals. Remember to continuously learn, practice, and engage with the community to stay updated and grow in your career.
 
-Best of luck on your data science journey! 🚀
+Best of luck for your data science journey! 🚀
