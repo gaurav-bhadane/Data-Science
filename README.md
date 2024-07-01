@@ -32,7 +32,7 @@ Before diving into Data Science, make sure you have a strong Foundation in the f
 
 ### 4. Build a Portfolio
 
-- **Personal Projects**: Work on data science projects that showcase your skills and interests.
+- **Personal Projects**: Work on Data Science projects that showcase your skills and interests.
 
 - **Kaggle Competitions**: Participate in Kaggle competitions to solve real-world problems and demonstrate your capabilities.
 
