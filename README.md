@@ -1,4 +1,4 @@
-# Data Science Roadmap from Scratch to Professional
+# Data Science Roadmap from Beginner to Professional
 
 Welcome to the Data Science Roadmap! Whether you are completely new to Data Science or looking to advance your skills, this roadmap will guide you through the necessary steps to become a professional in the field.
 
@@ -32,7 +32,7 @@ Before diving into Data Science, make sure you have a strong Foundation in the f
 
 ### 4. Build a Portfolio
 
-- **Personal Projects**: Work on data science projects that showcase your skills and interests.
+- **Personal Projects**: Work on Data Science projects that showcase your skills and interests.
 
 - **Kaggle Competitions**: Participate in Kaggle competitions to solve real-world problems and demonstrate your capabilities.
 
@@ -50,4 +50,4 @@ Before diving into Data Science, make sure you have a strong Foundation in the f
 
 Embarking on the journey to becoming a data scientist may seem daunting, but with dedication, persistence, and the right resources, you can achieve your goals. Remember to continuously learn, practice, and engage with the community to stay updated and grow in your career.
 
-Best of luck on your data science journey! 🚀
+Best of luck for your data science journey! 🚀
