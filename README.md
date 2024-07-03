@@ -7,7 +7,7 @@ Welcome to the Data Science Roadmap! Whether you are completely new to Data Scie
 Before diving into Data Science, make sure you have a strong Foundation in the following areas:
 
 - **Mathematics**: Linear Algebra, Calculus, Probability, and Statistics.
-- **Programming**: Proficiency in at least one programming language, preferably Python or R.
+- **Programming**: Proficiency in at least one Programming Language, preferably Python or R.
 - **Data Analysis Tools**: Familiarity with tools such as NumPy, Pandas,Seaborn and Matplotlib in Python, or equivalent in R.
 
 ## Roadmap
