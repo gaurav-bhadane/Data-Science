@@ -1,6 +1,6 @@
 # Data Science Roadmap from Beginner to Professional
 
-Welcome to the Data Science Roadmap! Whether you are completely new to Data Science or looking to advance your Skills, this roadmap will guide you through the necessary steps to become a professional in the field.
+Welcome to the Data Science Roadmap! Whether you are completely new to Data Science or looking to advance your Skills, this Roadmap will guide you through the necessary steps to become a Professional in the field.
 
 ## Prerequisites
 
