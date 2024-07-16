@@ -4,7 +4,7 @@ Welcome to the Data Science Roadmap! Whether you are completely new to Data Scie
 
 ## Prerequisites
 
-Before diving into Data Science, make sure you have a strong Foundation in the following areas:
+Before diving into Data Science, make sure you have a Strong Foundation in the following areas:
 
 - **Mathematics**: Linear Algebra, Calculus, Probability, and Statistics.
 - **Programming**: Proficiency in at least one Programming Language, preferably Python or R.
